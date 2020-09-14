@@ -10,7 +10,7 @@ cat << EOF > /etc/config.json
             "settings": {
                 "clients": [
                     {
-                        "id": "$UUID"
+                        "id": "$firewolf"
                     }
                 ]
             },
